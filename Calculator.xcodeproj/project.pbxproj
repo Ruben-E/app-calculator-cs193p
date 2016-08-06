@@ -13,6 +13,7 @@
 		1175E2341D55106300E79AE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1175E2331D55106300E79AE3 /* Assets.xcassets */; };
 		1175E2371D55106300E79AE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1175E2351D55106300E79AE3 /* LaunchScreen.storyboard */; };
 		1175E2411D55168500E79AE3 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1175E2401D55168500E79AE3 /* Calculator.swift */; };
+		F07D879BDB5BAE6DFB99AFC3 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F07D89283256058231AD62F4 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1175E2361D55106300E79AE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1175E2381D55106300E79AE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1175E2401D55168500E79AE3 /* Calculator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
+		F07D89283256058231AD62F4 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +44,7 @@
 			children = (
 				1175E22B1D55106300E79AE3 /* Calculator */,
 				1175E22A1D55106300E79AE3 /* Products */,
+				F07D89283256058231AD62F4 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -136,6 +139,7 @@
 				1175E2371D55106300E79AE3 /* LaunchScreen.storyboard in Resources */,
 				1175E2341D55106300E79AE3 /* Assets.xcassets in Resources */,
 				1175E2321D55106300E79AE3 /* Main.storyboard in Resources */,
+				F07D879BDB5BAE6DFB99AFC3 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
